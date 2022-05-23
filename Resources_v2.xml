@@ -1,0 +1,14 @@
+<Resources>
+	<Textures basePath="RoomTestResources/textures/help/" group="RoomDesign_Test_Help" prescale="0.5">
+		<texture id="match3_test_help4" path="help_4.png"/>
+		<texture id="match3_test_help6" path="help_6.png"/>
+		<texture id="match3_test_help7" path="help_7.png"/>
+	</Textures>
+  
+	<Textures basePath="RoomTestResources/textures/help/" group="RoomDesign_Test_Help_HQ" prescale="0.5">
+		<texture id="match3_test_help1" path="help_1.png"/>
+		<texture id="match3_test_help2" path="help_2.png"/>
+		<texture id="match3_test_help3" path="help_3.png"/>
+		<texture id="match3_test_help5" path="help_5.png"/>
+	</Textures>
+</Resources>

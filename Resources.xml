@@ -1,0 +1,19 @@
+<Resources>
+    <!-- Test -->
+    <Sounds group="FmodBanks">
+		<SoundSource bank="RoomTestResources/sound/RoomTestResources.bank"/>
+	</Sounds>
+
+    <Sounds>            
+        <SoundEffect id="TestTheme" event="Music/Events/RoomRedesign/Test/TestTheme"/>
+        <SoundEffect id="Test_AmbLoop" event="Ambience/RoomRedesign/Test/TestAmbLoop"/>
+	</Sounds>
+
+	<Sounds explicitLoading="false" group="FmodBanks">
+        <SoundSource bank="RoomTestResources/sound/RoomTest_Event.bank"/>
+    </Sounds>
+    <Sounds>
+        <SoundEffect id="Test_CleanRoom" event="Effects/RoomRedesign/Test/Test_CleanRoom"/>
+		<SoundEffect id="RoomJukeBoxMusicShort" event="Effects/RoomRedesign/Test/RoomJukeBoxMusicShort"/>
+    </Sounds>
+</Resources>
